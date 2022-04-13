@@ -1,0 +1,6 @@
+*.stackdump
+settings.vim
+_maps.vim
+doc/
+plugged/
+pack/
